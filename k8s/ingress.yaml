@@ -16,4 +16,5 @@ spec:
               serviceName: krampoline
               servicePort: 3000
             # 여러분의 app path 를 넣어주세요.
-            path: /kebb3879dc2fea(/|$)(.*)
+            #path: /kebb3879dc2fea(/|$)(.*)
+			path: /k674f95cd62e3a
